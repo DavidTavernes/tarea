@@ -13,3 +13,8 @@
 
 + Salida de audio digital (coaxial) hacia equipos de sonido o sistemas de cine en casa.
 
+
+## DisplayPort
+<img width="145" height="151" alt="conector 3" src="https://github.com/user-attachments/assets/2b82e790-2e59-4641-8dd4-353a9dcdb5a9" />
+
++ Conector de video digital de alta calidad. Se usa para monitores modernos, soporta video 4K y audio.
