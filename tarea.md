@@ -47,6 +47,36 @@
 ## VGA
 <img width="111" height="217" alt="conector 8" src="https://github.com/user-attachments/assets/7c2a70e3-1373-436f-b7ef-fe5186fb0767" />
 
++ Conector de video analógico (de 15 pines). Usado para monitores más antiguos.
+
+
+## Puertos USB 3.0 / 3.1 (rojos y azules)
+<img width="117" height="312" alt="conector 9" src="https://github.com/user-attachments/assets/797f8011-bd52-48e9-9130-d8335d714741" />
+
++ Azules o rojos: versiones más rápidas de USB (hasta 5 o 10 Gbps).
++ Sirven para discos duros externos, memorias USB, etc.
+
+
+Ethernet 
+## <img width="160" height="343" alt="conector 10" src="https://github.com/user-attachments/assets/2859c8ea-0be7-4f59-a3a3-100305b66b2f" />
+
++ Conector de red cableada (LAN). Permite conexión a Internet o red local mediante cable.
+
+
+## Conectores de audio
+<img width="197" height="349" alt="conector 11" src="https://github.com/user-attachments/assets/ffc2c506-ca5c-40ce-9ada-6b5c33cdef09" />
+
++ Verde: salida de audio (altavoces o auriculares)
++ Rosa: entrada de micrófono
++ Azul: entrada de línea (line-in)
++ Negro / Naranja / Gris: canales adicionales para sistemas 5.1 o 7.1
++ Óptico (S/PDIF): salida de audio digital óptico.
+
+
+
+
+
+
 
 
 
